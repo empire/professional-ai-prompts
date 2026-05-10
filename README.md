@@ -1,11 +1,3 @@
-
----
-
-# Suggested README.md
-
-# `README.md`
-
-````markdown
 # High Signal Prompts
 
 Curated production-grade prompts for:
