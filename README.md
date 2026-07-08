@@ -28,6 +28,7 @@ Prompts for:
 - storytelling
 - hooks & CTAs
 - professional positioning
+- [Image prompt: Getting to Yes with Yourself](linkedin/getting-to-yes-with-yourself/image-prompt.md)
 
 ## Interviews
 Prompts for:
