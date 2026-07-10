@@ -29,6 +29,7 @@ Prompts for:
 - hooks & CTAs
 - professional positioning
 - [Image prompt: Getting to Yes with Yourself](linkedin/getting-to-yes-with-yourself/image-prompt.md)
+- [Image prompt: Judgment That Remains](linkedin/judgment-that-remains/image-prompt.md)
 
 ## Interviews
 Prompts for:
