@@ -30,6 +30,7 @@ Prompts for:
 - professional positioning
 - [Image prompt: Getting to Yes with Yourself](linkedin/getting-to-yes-with-yourself/image-prompt.md)
 - [Image prompt: Judgment That Remains](linkedin/judgment-that-remains/image-prompt.md)
+- [AI Skill: Summarize Meeting (Create AI Skills)](linkedin/create-ai-skills/README.md)
 
 ## Interviews
 Prompts for:
