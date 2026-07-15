@@ -4,7 +4,7 @@ Sample AI Skill from the LinkedIn carousel on turning repetitive work into reusa
 
 ## Post
 
-_Add the live LinkedIn URL here after publishing._
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7483165398746566656/
 
 ## Skill
 
